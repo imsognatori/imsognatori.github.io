@@ -29,3 +29,8 @@ github:
 # Gems
 plugins:
   - jekyll-paginate
+  
+#navigation
+navigation:
+-title: cate
+ url: /cate.html
